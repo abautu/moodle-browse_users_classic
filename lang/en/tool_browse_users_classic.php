@@ -19,6 +19,8 @@
  *
  * @package tool_browse_users_classic
  * @copyright 2025 Andrei Bautu <abautu@gmail.com>
+ * @author     Andrei Bautu <abautu@gmail.com>
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 $string['pluginname'] = 'Browse list of users (classic mode)';
+$string['privacy:metadata'] = 'The Browse list of users plugin only displays existing user data.';
