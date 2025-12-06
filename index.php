@@ -18,7 +18,8 @@
  * Provides the classic (before Moodle 4.3) browsing users mode.
  *
  * @package tool_browse_users_classic
- * @copyright 2025 Moodle Pty Ltd <support@moodle.com>
+ * @copyright 2025 Andrei Bautu <abautu@gmail.com>
+ * @copyright 2022 based on work by Moodle Pty Ltd <support@moodle.com>
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
