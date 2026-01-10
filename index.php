@@ -242,7 +242,7 @@ foreach ($columns as $column) {
             ['class' => 'iconsort']
         );
     }
-    $$column = "<a href=\"user.php?sort=$column&amp;dir=$columndir\">" . $string[$column] . "</a>$columnicon";
+    $$column = "<a href=\"index.php?sort=$column&amp;dir=$columndir\">" . $string[$column] . "</a>$columnicon";
 }
 
 // We need to check that alternativefullnameformat is not set to '' or language.
